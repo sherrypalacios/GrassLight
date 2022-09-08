@@ -1,1 +1,1 @@
-# eelgrass_models
+# GrassLight in Python
