@@ -1,0 +1,19 @@
+     1000.      #Canopy Ht mm,
+         0      #Shoot biomass distribution
+       79.      #Shoots per m2, shoot density
+    0.0063      #Shoot Leaf area mm/shoot,
+    3.1000      #Shoot:Root,
+    10.0000     #Leaf bending angle deg
+    0.0000      #Current Velocity cm/s
+    7.5000      #pH
+   11.0000      #Water Temp ∞C
+    0.0000      #Epiphyte biomass mg/cm2
+    9.3900      #Photoperiod h
+    0.8000      #Mu-bar down
+         5      #Output increment cm
+    0.0000      #Asymptote
+    0.0000      #Inflection point
+    0.0000      #Shape factor
+
+
+

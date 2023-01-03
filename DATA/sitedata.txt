@@ -1,0 +1,8 @@
+ 37.2      #LAT  
+-76.4      #LON 
+  185      #JDAY
+ 12.0      #HOUR
+  2.0      #DEPTH
+0.395      #CDOM
+  6.7      #Chl a
+  4.4      #Turb
