@@ -8,6 +8,7 @@ The code is composed of a main body - the operator, and subroutines that compute
 
 
 The task of porting the FORTRAN code to Python (3.X) has been taken up by Dr. Sherry Palacios (California State University, Monterey Bay - CSUMB), and a series of her undergraduate research students, including Brandon Tom, Dakota Nance, and Annie Hansen. Funding provided by the CSUMB College of Science Discovery, Creation, and Innovation Fund (S Palacios) and the CSUMB Undergraduate Research Opportunities Center (UROC) (A Hansen). 
+
 Works Cited:
 Zimmerman, R. 2003. A biooptical model of irradiance distribution and photosynthesis in seagrass canopies. Limnol. Oceanogr. 48:568-585.
 
